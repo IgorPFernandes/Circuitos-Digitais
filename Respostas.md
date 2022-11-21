@@ -27,6 +27,11 @@ module exercicio(a,b,c,z);
 
 endmodule
 
+
+
+
+
+
 Exercício 2:
 
 module exercicio2(i0,i1,a,q);
@@ -42,6 +47,11 @@ nand nand2 (p3,i1,p1);
 nand nand3 (q,p2,p3);
 
 endmodule
+
+
+
+
+
 
 Exercício 3:
 
