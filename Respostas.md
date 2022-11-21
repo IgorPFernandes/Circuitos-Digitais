@@ -52,8 +52,11 @@ output q;
 wire p1,p2,p3;
 
 nand nand0 (p1,a,a);
+<br>
 nand nand1 (p2,i0,a);
+<br>
 nand nand2 (p3,i1,p1);
+<br>
 nand nand3 (q,p2,p3);
 
 endmodule
@@ -74,11 +77,17 @@ output c,d,e;
 wire n1,n2,p1,p2;
 
 not not1 (n1,a);
+<br>
 not not2 (n2,b);
+<br>
 and and1 (p1,b,n1);
+<br>
 and and2 (p2,a,n2);
+<br>
 and andc (c,a,n2);
+<br>
 and and3 (e,b,n1);
+<br>
 or or1 (d,p1,p2);
 
 endmodule
