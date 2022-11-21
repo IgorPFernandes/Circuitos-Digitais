@@ -20,11 +20,17 @@ module exercicio(a,b,c,z);
 
   // Estrutura
   not not0 (nc,c);
+  <br>
   not not1 (nb,b);
+  <br>
   not not2 (na,a);
+  <br>
   and and0 (p0,c,nb);
+  <br>
   or or0 (p1,nc,a);
+  <br>
   and and1 (p2,na,b);
+  <br>
   or orf (z,p0,p1,p2);
 
 
