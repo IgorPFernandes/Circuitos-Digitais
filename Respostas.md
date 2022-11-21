@@ -1,6 +1,6 @@
 # Circuitos-Digitais
 
-
+<br>
 
 ##Exercício 1:
 =
@@ -31,7 +31,7 @@ module exercicio(a,b,c,z);
 endmodule
 
 
-
+<br>
 
 
 
@@ -54,7 +54,7 @@ endmodule
 
 
 
-
+<br>
 
 
 ##Exercício 3:
