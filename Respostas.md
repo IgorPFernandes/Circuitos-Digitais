@@ -1,8 +1,8 @@
-## Circuitos-Digitais
+# Circuitos-Digitais
 
 
 
-#Exercício 1:
+##Exercício 1:
 =
 
 %%file exercicio.sv
@@ -35,7 +35,7 @@ endmodule
 
 
 
-#Exercício 2:
+##Exercício 2:
 =
 
 module exercicio2(i0,i1,a,q);
@@ -57,7 +57,7 @@ endmodule
 
 
 
-#Exercício 3:
+##Exercício 3:
 =
 
 module exercicio3(a,b,c,d,e);
